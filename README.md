@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  MatHax
+  VacumHax
 </h1>
 
 <p align="center">
