@@ -10,7 +10,9 @@
   A minecraft 1.19 utility mod for fabric packed with multiconnect
 </h1>
 
-This repository is an archive VacuumHax
+<h1 align="center">
+This repository is an archive VacuumHax.This repo only updated when vacuumHax updates to preserve old versions
+</h1>
 
 
 
